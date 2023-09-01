@@ -19,7 +19,7 @@ img {
 }
 body {
   color: var(--text-color);
- }
+}
 .container {
   max-width: 1068px;
   margin: auto;
@@ -78,7 +78,7 @@ header {
   gap: 1rem;
   margin-top: 1rem;
 }
-.cart-ing {
+.cart-img {
   width: 100px;
   height: 100px;
   object-fit: contain;
